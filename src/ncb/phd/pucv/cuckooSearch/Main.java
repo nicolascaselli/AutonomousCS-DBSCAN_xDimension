@@ -63,7 +63,7 @@ public class Main {
 //		mInstanciasNombres.put(1,"mscp46.txt"); mInstanciasBestFit.put( 1,560);
 //		mInstanciasNombres.put(1,"mscpc5.txt"); mInstanciasBestFit.put( 1,215);
 		int cantInstancia = 1;
-//		mInstanciasNombres.put(cantInstancia,"mscp41.txt"); mInstanciasBestFit.put( cantInstancia,429);
+		mInstanciasNombres.put(cantInstancia,"mscp41.txt"); mInstanciasBestFit.put( cantInstancia,429);
 //		cantInstancia++;
 //		mInstanciasNombres.put(cantInstancia,"mscp42.txt"); mInstanciasBestFit.put( cantInstancia,512);
 //		cantInstancia++;
@@ -82,8 +82,8 @@ public class Main {
 //		mInstanciasNombres.put(cantInstancia,"mscp49.txt"); mInstanciasBestFit.put( cantInstancia,641);
 //		cantInstancia++;
 //		mInstanciasNombres.put(cantInstancia,"mscp410.txt"); mInstanciasBestFit.put( cantInstancia,514);
-//		cantInstancia++;
-//		mInstanciasNombres.put(cantInstancia,"mscp51.txt"); mInstanciasBestFit.put( cantInstancia,253);
+		cantInstancia++;
+		mInstanciasNombres.put(cantInstancia,"mscp51.txt"); mInstanciasBestFit.put( cantInstancia,253);
 //		cantInstancia++;
 //		mInstanciasNombres.put(cantInstancia,"mscp52.txt"); mInstanciasBestFit.put( cantInstancia,302);
 //		cantInstancia++;
@@ -153,8 +153,8 @@ public class Main {
 //		cantInstancia++;
 //		mInstanciasNombres.put(cantInstancia,"mscpd5.txt"); mInstanciasBestFit.put(cantInstancia,61);
 //		cantInstancia++;
-		mInstanciasNombres.put(cantInstancia,"mscpnre1.txt"); mInstanciasBestFit.put( cantInstancia,29);
-		cantInstancia++;
+//		mInstanciasNombres.put(cantInstancia,"mscpnre1.txt"); mInstanciasBestFit.put( cantInstancia,29);
+//		cantInstancia++;
 //		mInstanciasNombres.put(cantInstancia,"mscpnre2.txt"); mInstanciasBestFit.put( cantInstancia,30);
 //		cantInstancia++;
 //		mInstanciasNombres.put(cantInstancia,"mscpnre3.txt"); mInstanciasBestFit.put( cantInstancia,27);

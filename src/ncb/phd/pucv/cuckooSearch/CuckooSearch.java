@@ -1220,8 +1220,8 @@ public class CuckooSearch extends Thread{
 						/*******************************************************************
 						 * FIN: APLICAMOS ML PARA RESTABLECER PARAMETROS
 						 ******************************************************************/
-						if(bestFit <= mBestFistInstancias.get(inst))
-							break;
+						if(bestFit <= mBestFistInstancias.get(inst)) {
+							numEjecucion=31;break;}
 						i++;
 					}
 					
